@@ -1,0 +1,13 @@
+#menu{
+    border-right: 1px solid lightgrey;
+  }
+
+  .logo-broker{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.profile-picture .img-circle{
+    border-radius: 0;
+  }
