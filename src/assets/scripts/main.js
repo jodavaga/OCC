@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
     (function($) {
-    console.log("HOLLLLLAAAAA");
+    console.log("OCC working");
 
     // Handle minimalize sidebar menu
     $(".hide-menu").click(function(event) {
